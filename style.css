@@ -1,4 +1,18 @@
-header {
+#head-logo {
     background-color: rgb(104, 86, 86);
     height: 200px;
+    margin: 0px;
+    display: flex;
+}
+
+#header-links {
+    display: flex;
+    padding-left: 47%;
+    justify-content: space-evenly;
+    gap: 25px;
+}
+
+span {
+    
+    
 }
