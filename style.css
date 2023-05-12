@@ -1,8 +1,17 @@
+body {
+    font-family: Tahoma;
+    
+}
+
 #head-logo {
-    background-color: rgb(104, 86, 86);
-    height: 200px;
+    background-color: #1F2937;
+    height: 30px;
     margin: 0px;
     display: flex;
+    flex: 1;
+    color: #F9FAF8;
+    padding: 20px;
+    margin: -10px;
 }
 
 #header-links {
@@ -12,3 +21,10 @@
     gap: 40px;
 }
 
+.top-third {
+    display: flex;
+    background-color: #1F2937;
+    height: 300px;
+    margin: -10px;
+    color: #F9FAF8
+}
